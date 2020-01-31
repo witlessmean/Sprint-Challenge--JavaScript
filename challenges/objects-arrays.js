@@ -15,7 +15,7 @@
 // Using your dinosaur objects, log answers to these questions:
 
 // How much did tyrannosaurus weigh?
-console.log();
+console.log(f);
 
 // What was the diet of a velociraptor?
 console.log();
